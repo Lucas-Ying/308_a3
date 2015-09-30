@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ext/glew-1.10.0/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ext/glew-1.10.0/include/GL/glew.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ext/glew-1.10.0/include/GL/glxew.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ext/glew-1.10.0/include/GL/wglew.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ext/glew-1.10.0/src/glew.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ext/stb/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ext/stb/stb.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/comp308.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/geometry.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/geometry.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/imageLoader.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/shaderLoader.hpp" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/ext/glew-1.10.0/include" />
+          <root url="file://$MODULE_DIR$/ext/stb" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include" />
+          <root url="file:///usr/lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include/cilk" />
+          <root url="file:///usr/lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include/sanitizer" />
+          <root url="file:///usr/local/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/ext/glew-1.10.0/include" />
+          <root url="file://$MODULE_DIR$/ext/stb" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include" />
+          <root url="file:///usr/lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include/cilk" />
+          <root url="file:///usr/lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include/sanitizer" />
+          <root url="file:///usr/local/include" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/ext/glew-1.10.0/include/GL/glxew.h" />
+          <root url="file://$MODULE_DIR$/ext/glew-1.10.0/include/GL/wglew.h" />
+          <root url="file://$MODULE_DIR$/ext/glew-1.10.0/include/GL/glew.h" />
+          <root url="file://$MODULE_DIR$/ext/stb/CMakeLists.txt" />
+          <root url="file://$MODULE_DIR$/ext/stb/stb.c" />
+        </excluded>
+      </library>
+    </orderEntry>
+  </component>
+</module>
